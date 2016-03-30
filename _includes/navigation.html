@@ -1,0 +1,16 @@
+<a href="/">Home</a>                                    <!-- Back to Blog -->
+
+{% for page in site.pages %}                            <!-- About Me -->
+    {% if page.tags contains "about" %}
+        <a href="{{ page.url }}">{{ page.title }}</a>
+    {% endif %}
+{% endfor %}
+
+<a href='//www.koga.tech'>↩︎</a>                         <!-- Back to main page -->
+<!--
+{% for page in site.pages %}
+    {% if page.tags contains "contact" %}
+        <a href="{{ page.url }}">{{ page.title }}</a>
+    {% endif %}
+{% endfor %}
+-->
