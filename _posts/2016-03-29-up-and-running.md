@@ -18,6 +18,6 @@ This means that it can be used to host a blog with greater ease than a tradition
 
 In conclusion, making and hosting a blog on Github Pages isn't a dificult thing to do as my post - hopefully - illustrates. Feel free to contact me for help at [therealkoga@gmail.com](mailto:therealkoga@gmail.com).
 
-####Revisions:
+#### Revisions:
 - <revision>Inserted a clarification regarding the TLD price</revision>
 - <revision>Inserted a summary</revision>
