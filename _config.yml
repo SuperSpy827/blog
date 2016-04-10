@@ -2,7 +2,7 @@
 title:       "Koga's Blog"
 email:       therealkoga@gmail.com
 author:      Koga
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "A personal blog for Koga. His code, projects and tutorials can be found here."
 baseurl:     ""
 url:         "/"
 date_format: "%b %-d, %Y"
