@@ -1,4 +1,0 @@
-https://blog.koga.tech/
-https://blog.koga.tech/about/
-https://blog.koga.tech/2016/04/10/using-cloudfare/
-https://blog.koga.tech/2016/03/29/up-and-running/
